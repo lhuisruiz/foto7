@@ -36,7 +36,7 @@ function modal_088() {
         '<a href="https://drive.google.com/drive/folders/1tTFPiB75hFGsIcJL-9fQLp47hslMCRWf?usp=share_link" target="_blank">' +
         '<button class="bt-msj" >Fotos Egresados<i class="fa-solid fa-image blu"></i></button></a>' +
         //CARPETA 2 video
-        '<a href="lapp2" >' + 
+        '<a href="https://drive.google.com/drive/folders/1qX5qAU0ToamOeXamYNfFI9uOvFozXD59?usp=share_link" >' + 
         '<button class="bt-msj" >Ver Videos<i class="fa-solid fa-video blu"></i></button></a>'+
         //CARPETA 2 otro
         '<a href="https://drive.google.com/drive/folders/1eI0Ji65bkVslA2BLz1N3pawhdZNOXhTi?usp=share_link" >' + 
